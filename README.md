@@ -1,6 +1,6 @@
 OLUŞTURULAN BİR EMPLOYEE TABLOSU İLE YAPILAN SQL İŞLEMLERİ
 
-       Bu çalışma, SQL veritabanı üzerinde bir employee tablosu oluşturma (CREAT), veri ekleme (INSERT INTO), veri güncelleme (UPDATE), ve veri silme (DELETE) işlemlerini öğrenmek ve pratik yapmak amacıyla hazırlanmıştır.
+Bu çalışma, SQL veritabanı üzerinde bir employee tablosu oluşturma (CREAT), veri ekleme (INSERT INTO), veri güncelleme (UPDATE), ve veri silme (DELETE) işlemlerini öğrenmek ve pratik yapmak amacıyla hazırlanmıştır.
 
 1. Tablo Oluşturma (CREAT)
 İlk adımda, employee adında bir tablo oluşturulmuştur. Bu tablo, çalışanların kimlik numarası, ad, doğum tarihi ve e-posta adresi gibi temel bilgilerini içeren sütunlardan oluşur.
