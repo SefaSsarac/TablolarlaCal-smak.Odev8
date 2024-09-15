@@ -1,20 +1,13 @@
-OLUŞTURULAN BİR EMPLOYEE TABLOSU İLE YAPILAN SQL İŞLEMLERİ
+SQL OPERATIONS WITH A CREATED EMPLOYEE TABLE This study is prepared to perform and practice the operations of creating an employee table (CREAT), adding data (INSERT INTO), updating data (UPDATE), and deleting data (DELETE) on the SQL database.
 
-Bu çalışma, SQL veritabanı üzerinde bir employee tablosu oluşturma (CREAT), veri ekleme (INSERT INTO), veri güncelleme (UPDATE), ve veri silme (DELETE) işlemlerini öğrenmek ve pratik yapmak amacıyla hazırlanmıştır.
+Creating a Table (CREAT) The first arrangement is the scope of a table for the employee. This table consists of columns that contain basic information such as the address, identity number of the persons, advertisement, date of birth, and e-mail.
 
-1. Tablo Oluşturma (CREAT)
-İlk adımda, employee adında bir tablo oluşturulmuştur. Bu tablo, çalışanların kimlik numarası, ad, doğum tarihi ve e-posta adresi gibi temel bilgilerini içeren sütunlardan oluşur.
+Adding Data (INSERT INTO) 50 employee data were added to the table. The employee has a unique identity number, distribution and advertisement, date of birth, and e-mail address information.
 
-2. Veri Ekleme (INSERT INTO)
-Tabloya 50 adet çalışan verisi eklenmiştir. Her çalışan, benzersiz bir kimlik numarası ile tanımlanır ve ad, doğum tarihi ile e-posta adresi bilgilerine sahiptir.
+Updating Data (UPDATE) The information of certain people in the table was updated. This operation was performed according to the details of certain employees. For example, the name, date of birth, and e-mail address of some people were updated.
 
-3. Veri Güncelleme (UPDATE)
-Tablodaki belirli çalışanların bilgileri güncellenmiştir. Bu işlem, belirli bir çalışanı tanımlayan id değerine göre yapılmıştır. Örneğin, bazı çalışanların adı, doğum tarihi ve e-posta adresi güncellenmiştir.
+Deleting Data (DELETE) Finally, some employees in the table were deleted according to their identity numbers.
 
-4. Veri Silme (DELETE)
-Son olarak, tabloda bulunan bazı çalışanlar kimlik numaralarına göre silinmiştir.
+This study is prepared for basic table management in SQL, storing and showing data insertion, update and deletion operations.
 
-Bu çalışma, SQL'de temel tablo yönetimi, veri ekleme, güncelleme ve silme işlemlerini anlamak ve uygulamak için hazırlanmıştır.
-
-Kullanılan Teknoloji:
-PostgreSQL
+Technology Used: PostgreSQL
